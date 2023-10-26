@@ -5,4 +5,5 @@
 A simple nextbot gmod addon that displays tara art's face
 
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3042431065
+
 Demo Video: https://www.youtube.com/watch?v=r9CbEdS3shI
